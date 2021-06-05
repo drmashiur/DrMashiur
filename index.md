@@ -7,3 +7,4 @@ Later I shifted to the managerial role to lead mobile apps, cloud solutions, art
 
 # My writings
 - [লেখালিখি](writing/index.md)
+- [প্রকাশিত বই](BookPublication/index.md)
