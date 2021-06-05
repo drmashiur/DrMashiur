@@ -1,37 +1,7 @@
-## Welcome to Mashiur Rahman page
 
-You can use the [editor on GitHub](https://github.com/drmashiur/drmashiur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# ABOUT ME
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I received Bachelor and Master of Science in Electrical Engineering degree from Toyohashi University of Technology (Japan), and PhD in physics from the Graduate University of Advanced Studies. I started my carrier by providing an engineering solution to the scientist community in biomedical, nanotechnology, and biosensors areas. The projects started with the designing of hardware and software from the conceptual phase, followed by the implementation phase, writing software for the system and data acquisition, and finally develop data analysis & reporting system.
 
-### Markdown
+Later I shifted to the managerial role to lead mobile apps, cloud solutions, artificial intelligence, analytics, web solutions, mobile health, telehealth, eHealth, wearable devices, internet of things (IoT), data healthcare, and digital healthcare products. I am passionate for Life Science and Healthcare and improving patients/users wellbeing through the use of Data and Digital health technologies. Enhance the overall patients and users experience through the use of emerging digital solutions. I have extensive management, R&D, leadership and mentoring experience for in-house and remote team in Vietnam, Indonesia, Malaysia, Japan, Bangladesh, and India. Currently, I am working as a "Digital Healthcare Solutions Specialist" at Omron Healthcare, Singapore & Japan.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drmashiur/drmashiur/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
